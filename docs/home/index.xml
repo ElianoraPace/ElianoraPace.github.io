@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on エリアノーラパーチェ ~轍田中~</title>
+    <link>https://elianorapace.github.io/home/</link>
+    <description>Recent content in Homes on エリアノーラパーチェ ~轍田中~</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 13 Jan 2021 14:29:15 +0900</lastBuildDate><atom:link href="https://elianorapace.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://elianorapace.github.io/home/my-first-post/</link>
+      <pubDate>Wed, 13 Jan 2021 14:29:15 +0900</pubDate>
+      
+      <guid>https://elianorapace.github.io/home/my-first-post/</guid>
+      <description>aiueo</description>
+    </item>
+    
+  </channel>
+</rss>
