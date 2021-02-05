@@ -10,7 +10,7 @@ draft: true
 筋力極振り知恵遅れアタッカー
 
 ## 好きなゲーム
-- Civilization V
+- C`ivilization V
 - ローグライク全般
 
 ---
